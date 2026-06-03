@@ -11,3 +11,6 @@ wheels/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Raw sensor data — keep off the public repo (readings still appear in the published charts)
+*.csv
